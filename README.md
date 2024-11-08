@@ -4,6 +4,10 @@
 
 The AI Healthcare Portal is a web application built using Streamlit, designed to provide users with a comprehensive range of healthcare-related functionalities. By leveraging both AIML and generative AI technologies, this project aims to deliver valuable insights and personalized advice for various health conditions.
 
+## Demo Video
+[![Watch the Demo](https://img.youtube.com/vi/YourVideoID/0.jpg)](https://www.youtube.com/watch?v=YourVideoID)
+
+
 ## Features
 
 - 🏥 **Healthcare Take**: Comprehensive health check-ups and consultations.
