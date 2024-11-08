@@ -2,7 +2,7 @@ import joblib
 import streamlit as st
 
 # Load the model
-model = joblib.load('models/model.pkl')
+model = joblib.load('Health-care-portal/models/model.pkl')
 
 
 # Example inputs based on typical feature values from the dataset
