@@ -8,3 +8,4 @@ faiss-cpu
 langchain_google_genai
 scikit-learn
 streamlit-option-menu
+langchain_groq
